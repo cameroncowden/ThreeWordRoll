@@ -1,0 +1,9 @@
+This takes a word list, and generates combinations of 3 words. With a surprisingly small word list, you can get a large number of unique identifiers. Like What3Words, but for anything and  everything.
+
+(number of unique words)^3 => (100)^3 = 1 million
+
+22^3 = 10,648
+
+for 10,648 unique nft, for example, names, you need 22 words. Which are also within the realm of memorization for a human - especially if they can be arranged in a meaningful way.
+
+
